@@ -1,4 +1,4 @@
-# manipulando-excel-python
+# Manipulando arquivos Excel com Python
 1- Listar arquivos no diretório
 2- Cria um arquivo
 3- Exclui um arquivo
